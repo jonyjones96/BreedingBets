@@ -1,1 +1,15 @@
 #This contract will create a horse
+#
+
+library HorseFactory
+
+
+
+contract HorseFactory
+(owner: Address)
+
+transition createHorse()
+
+end
+
+
